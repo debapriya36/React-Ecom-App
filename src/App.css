@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+.navbar{
+  background-color: black !important;
+}
+.nav-link , .navbar-brand{
+  color: rgb(24, 249, 3) !important;
+}
+/* .navbar-brand{
+  color: white !important;
+} */
+
+body {
+  background-color: rgba(5, 22, 48, 0.95) !important;
+
+}
+
