@@ -1,4 +1,4 @@
-# Sample video and Photo of React-Ecom-App
+# Sample video and Photos of React-Ecom-App
 ![Screenshot (37)](https://user-images.githubusercontent.com/77222446/185446317-26cfd577-67f8-4eed-a466-a47af0cfc9bd.png)
 
 ![Screenshot (40)](https://user-images.githubusercontent.com/77222446/185446797-36584815-8ee3-49ae-86dc-7a80e9517213.png)
