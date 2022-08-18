@@ -1,8 +1,8 @@
-# Getting Started with Create React App
-
+# Sample video of React-Ecom-App
 
 https://user-images.githubusercontent.com/77222446/185443238-1a1990d8-c09b-4289-a4cf-436ce5b39f73.mp4
 
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
